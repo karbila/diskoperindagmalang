@@ -1,0 +1,314 @@
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: Notice</p>
+<p>Message:  Undefined property: stdClass::$tgl_sk</p>
+<p>Filename: word/spjb_kontrak.php</p>
+<p>Line Number: 122</p>
+
+</div><div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: Notice</p>
+<p>Message:  Undefined offset: 1</p>
+<p>Filename: helpers/cetak_helper.php</p>
+<p>Line Number: 33</p>
+
+</div><div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: Notice</p>
+<p>Message:  Undefined offset: 2</p>
+<p>Filename: helpers/cetak_helper.php</p>
+<p>Line Number: 48</p>
+
+</div><div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: Notice</p>
+<p>Message:  Undefined offset: 2</p>
+<p>Filename: helpers/cetak_helper.php</p>
+<p>Line Number: 57</p>
+
+</div>
+<html xmlns:o='urn:schemas-microsoft-com:office:office' xmlns:w='urn:schemas-microsoft-com:office:word' xmlns='http://www.w3.org/TR/REC-html40'>
+<head><xml><w:WordDocument><w:View>Print</w:View><w:Zoom>100</w:Zoom></w:WordDocument></xml><style type="text/css">
+‘.$word_landscape_style.’ table,td {border:0px solid #FFFFFF;} </style>
+</head>
+<body><div class=’Section1'><table border=0  cellpadding=2 valign=3>
+	<tr height=30>
+		<td rowspan=3 colspan=2 align=center><img src="http://workstation/bandarmasih-rsp/ico/logo.src.png" width=80 height=80></td>
+		<td align=center colspan=7 width=600>
+		<font size=3><b>PEMERINTAH KOTA BANJARMASIN</b></font>
+		</td>
+		<td rowspan=3 colspan=2 align=center><img src="http://workstation/bandarmasih-rsp/ico/file_kiri.jpg" width=80 height=80></td>
+	</tr>
+	<tr>
+		<td align=center colspan=7><font size=3><b>PERUSAHAAN DAERAH AIR MINUM BANDARMASIH</b></font></td>
+	</tr>
+	<tr>
+		<td align=center colspan=7><font size=2>Jl. Achmad Yani Km.2,5  No.12 Kotak Pos 30 Banjarmasin 70236 <br/>
+Telp.  (0511) 3253617 – 3251690 -  3252541 – Fax. (0511) 3253238
+</font></td>
+	</tr>
+</table>
+<hr>
+<div><br/></div>
+<center><font size=4><b>SURAT  PERJANJIAN  JUAL  BELI
+<div><br/></div>
+ANTARA
+</b>
+<div><br/></div>
+<b>PERUSAHAAN  DAERAH  AIR  MINUM<br/>BANDARMASIH KOTA BANJARMASIN
+<div><br/></div>
+DENGAN
+<div><br/></div>
+PT Minfosys</b>
+</font></center>
+<div><br/></div>
+<table>
+<tr>
+	<td colspan=3><b>====================================================================</b></td>
+</tr>
+<tr>
+	<td align=left><b>NOMOR</b></td>
+	<td><b>:</b></td>
+	<td><b>PDAM.001/SPJB/XII/2013</b></td>
+</tr>
+<tr>
+	<td align=left><b>TANGGAL</b></td>
+	<td><b>:</b></td>
+	<td><b>01 Desember 2013</b></td>
+</tr>
+<tr>
+	<td colspan=3><b>====================================================================</b></td>
+</tr>
+</table>
+<p align="justify">Pada hari ini, <b><em>Minggu</em></b> tanggal <b><em>Satu  bulan Desember tahun Dua Ribu Tiga belas  </em></b> (01-12-2013), kami yang bertanda tangan  di bawah ini  : <p>
+
+<table>
+	<tr>
+		<td>1.</td>
+		<td>Nama</td>
+		<td>:</td>
+		<td>Ir. H. MUSLIH</td>
+	</tr>
+	<tr>
+		<td></td>
+		<td>Jabatan</td>
+		<td>:</td>
+		<td>Direktur Utama PDAM Bandarmasih</td>
+	</tr>
+	<tr>
+		<td></td>
+		<td valign="top">Alamat</td>
+		<td valign="top">:</td>
+		<td >Jalan  A. Yani  No. 12<br/>  
+            B A N J A R M A S I N<br/>
+			Dalam  hal   ini   bertindak    atas    nama    Perusahaan    Daerah    Air     Minum 
+		  Bandarmasih  Kota  Banjarmasin,  yang    selanjutnya  disebut  :<br/>
+		  <b>…………………………    Pihak  Pertama   ………………………….</b> 
+	</td>
+	</tr>
+</table>
+
+<table>
+	<tr>
+		<td>2.</td>
+		<td>Nama</td>
+		<td>:</td>
+		<td>Arga Dinata</td>
+	</tr>
+	<tr>
+		<td></td>
+		<td>Jabatan</td>
+		<td>:</td>
+		<td>Direktur</td>
+	</tr>
+	<tr>
+		<td></td>
+		<td valign="top">Alamat</td>
+		<td valign="top">:</td>
+		<td >Jl. Cengger Ayam I Malang</td>
+	</tr>
+	<tr>
+	<td colspan=4>Dalam hal ini bertindak atas nama CV. Quantum Media Mandiri  yang  selanjutnya  disebut :</td>
+	</tr>
+	<tr>
+		<td colspan=3></td>
+		<td ><b>…………………………    Pihak  Kedua   ……………………………</b></td>
+	</tr>
+</table>
+<div><br/></div>
+<div><br/></div>
+<div><br/></div>
+<div><br/></div>
+Dengan memperhatikan  :<div><br/></div>
+<table>
+	<tr><td valign="top">1.</td>
+	<td><p align="justify">Peraturan Direksi PDAM Bandarmasih Nomor : PDAM.001/PD/II/2013, tanggal 01 pebruari 2013  Tentang  Pedoman Pengadaan Barang / Jasa  di Lingkungan  Perusahaan Daerah Air Minum Bandarmasih Kota Banjarmasin.  </p>
+	</td></tr>
+	<tr>
+	<td valign="top">2.</td>
+	<td><p align="justify">Berita  Acara  Klarifikasi  dan  Negosiasi  NomorPB.001.05/XII/2013 <b>tanggal 01 Desember 2013</b>.</p>
+	</td></tr>
+	<tr><td valign="top">3.</td>
+	<td>
+	<p align="justify">Surat Keputusan Direktur Utama Perusahaan Daerah Air Minum Bandarmasih Nomor <b>PDAM.001/KPTS-PAN/PB/XII/2013, tanggal </b> Tentang Penetapan Pemenang Pekerjaan <b>pemasangan water meter</b>.</p>
+	</td></tr>
+</table>
+<br/>
+<p align="justify">Kedua belah pihak telah sepakat melaksanakan perjanjian sehubungan dengan pelaksanaan pekerjaan pengadaan  barang  sebagai berikut :</p>
+<center>
+<b>
+PASAL   1
+<div><br/></div>
+Tugas dan Uraian Pekerjaan
+<br/>
+</b>
+</center>
+<p align="justify"><b>PIHAK PERTAMA</b> dalam jabatannya memberi tugas kepada <b>PIHAK KEDUA</b> untuk melaksanakan pemasangan water meter pada Perusahaan Daerah  Air  Minum Bandarmasih Kota Banjarmasin.</p>
+<center>
+<b>
+PASAL   2
+<div><br/></div>
+Harga Kontrak dan Cara Pembayaran
+<br/>
+</b>
+</center>
+<br/>
+<table>
+	<tr>
+	<td valign="top">1.</td><td><p align="justify">Harga kontrak tersebut dalam pasal 1 sebesar 88.000.000 (Delapan Puluh Delapan   Juta ). Sudah termasuk segala macam pajak yang berlaku.</p></td>
+	</tr>
+	<tr>
+	<td valign="top">2.</td>
+	<td><p align="justify">Pembayaran akan dilaksanakan  setelah barang diterima di gudang atau tempat yang ditunjuk oleh <b>PIHAK PERTAMA</b> dalam keadaan baik dan lengkap yang dinyatakan dengan Berita Acara Pemeriksaan Barang  oleh  Panitia Pemeriksa Barang  yang diangkat dengan Surat Keputusan  <b>PIHAK PERTAMA</b>.</p>
+	</td>
+	</tr>
+	<tr>
+	<td valign="top">3.</td>
+	<td><p align="justify">Biaya  transportasi  sampai ke gudang  <b>PIHAK PERTAMA</b> menjadi tanggung jawab  <b>PIHAK  KEDUA</b> . </p>
+	</td>
+	</tr>
+</table>
+<center>
+<b>
+PASAL   3
+<div><br/></div>
+Jangka Waktu Pelaksanaan
+<br/>
+</b>
+</center>
+<p align="justify"><b>Jangka Waktu Pelaksanaan</b>  pekerjaan tersebut dalam pasal 1 adalah <b>60 ( Enam Puluh) hari</b> terhitung sejak ditandatanganinya surat perjanjian ini  dan pelaksanaan pekerjaan pengadaan harus diselesaikan dan diserahkan oleh <b>PIHAK KEDUA.</b></p>
+<div><br/></div>
+<center>
+<b>
+PASAL   4
+<div><br/></div>
+Pengadaan dan Pengiriman Barang
+<br/>
+</b>
+</center>
+<br/>
+<table>
+	<tr>
+	<td valign="top">1.</td><td><p align="justify">Pengadaan dan pengiriman barang oleh PIHAK KEDUA akan dilaksanakan sesuai dengan jadwal pelaksanaan yang telah disepakati oleh kedua belah pihak.</p></td>
+	</tr>
+	<tr>
+	<td valign="top">2.</td>
+	<td><p align="justify">Barang – barang yang dikirim  <b>PIHAK KEDUA</b> merupakan barang – barang dengan kualitas baik sesuai dengan standar yang ditentukan dan spesifikasi tehnik yang telah diminta <b>PIHAK PERTAMA.</b>
+	</p>
+	</td>
+	</tr>
+</table>
+<center>
+<b>
+PASAL   5
+<div><br/></div>
+Sanksi – sanksi
+<br/>
+</b>
+</center>
+<br/>
+<table>
+	<tr>
+	<td valign="top">1.</td><td><p align="justify">Apabila terjadi keterlambatan penyerahan barang sesuai Pasal  3  Surat Perjanjian ini, maka <b>PIHAK KEDUA</b> dikenakan denda oleh <b>PIHAK PERTAMA</b> untuk setiap hari  keterlambatan  1/1000 ( satu perseribu ) dan setinggi-tingginya  5 % ( lima perseratus ) dari harga satuan barang yang terlambat pengirimannya, kecuali apabila keterlambatan tersebut disebabkan hal – hal yang diluar kekuasaan/kemampuan <b>PIHAK KEDUA</b> (Force  Majeure ).</p></td>
+	</tr>
+	<tr>
+	<td valign="top">2.</td>
+	<td><p align="justify">Yang dimaksud dengan <b>Force Majeur</b> dalam Surat Perjanjian ini adalah  :<br/>
+	2.1. Bencana Alam, kebakaran produsen barang, kecelakaan lalulintas pengangkutan barang.<br/>
+	2.2. Kebijaksanaan Pemerintah di bidang Moneter.
+	</p>
+	</td>
+	</tr>
+</table>
+<br/>
+
+ 
+<center>
+<b>PASAL 6
+<div><br/></div>
+Perubahan dan Pembatalan
+</b>
+<div><br/></div>
+</center>
+<table>
+	<tr>
+	<td valign="top">1.</td><td><p align="justify">Perubahan harga satuan  hanya dibenarkan apabila ada kebijaksanaan atau    peraturan – peraturan yang dikeluarkan Pemerintah Republik Indonesia di Bidang Moneter, dan berlaku untuk pekerjaan  yang belum selesai / dikirim oleh <b>PIHAK KEDUA</b>.</p></td>
+	</tr>
+	<tr>
+	<td valign="top">2.</td>
+	<td><p align="justify">Perubahan – perubahan atau pembatalan terhadap Surat Perjanjian ini baru sah berlaku  apabila dibuat secara tertulis dan ditandatangani oleh kedua belah pihak dan dituangkan  dalam bentuk  <b>ADDENDUM</b>.
+	</p>
+	</td>
+	</tr>
+</table>
+<br/>
+<center>
+<b>PASAL 7
+<div><br/></div>
+Penyelesaian Perselisihan
+</b>
+<div><br/></div>
+</center>
+<table>
+	<tr>
+	<td valign="top">1.</td><td><p align="justify">Dalam hal terjadi perbedaan pendapat akibat dari pada Surat Perjanjian Jual Beli ini, maka akan dilaksanakan penyelesaian secara musyawarah dan mufakat.</p></td>
+	</tr>
+	<tr>
+	<td valign="top">2.</td>
+	<td><p align="justify">Bila tidak dicapai penyelesaian secara musyawarah, maka kedua belah pihak memilih kedudukan Hukum ( Domisili ) yang tetap dan tidak berubah di Kantor Pengadilan Negeri Banjarmasin.
+	</p>
+	</td>
+	</tr>
+</table>
+<br/>
+<div><br/></div>
+<center>
+<b>PASAL 8
+<div><br/></div>
+P e n u t u p
+</b>
+<div><br/></div>
+</center>
+<p align="justify">Demikian Surat Perjanjian Jual Beli ini dibuat dalam rangkap  4 (empat), 2 ( dua ) diantaranya  bermaterai cukup yang sama kekuatannya, untuk dipergunakan seperlunya oleh masing – masing pihak dan hal – hal lain yang belum diatur dalam Surat Perjanjian ini akan diatur atau ditentukan kemudian atas persetujuan kedua belah pihak.
+	</p>
+<div><br/></div>
+<center>
+<table>
+	<tr><td width=300 align=center>PIHAK PERTAMA</td><td width=300 align=center>PIHAK KEDUA</td></tr>
+	<tr><td width=300 align=center>PT Minfosys<br/><br/><br/><br/><br/></td><td width=300 align=center>PDAM BANDARMASIH<br/><br/><br/><br/><br/></td></tr>
+	<tr><td width=300 align=center><b><u>Arga Dinata</u></b></td><td width=300 align=center><b><u>Ir. H. MUSLIH</u></b></td></tr>
+	<tr><td width=300 align=center>Direktur</td><td width=300 align=center>Direktur Utama</td></tr>
+</table>
+</center>
+</div></body>
+</html>
+  
+

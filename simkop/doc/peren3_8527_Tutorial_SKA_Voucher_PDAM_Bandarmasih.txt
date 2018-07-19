@@ -1,0 +1,121 @@
+I. Contoh kasus pembayaran bertahap, dimana sebelumnya telah ada tagihan uang muka, no voucher 050.06.2013/VH, uang muka kerja lainnya pusat = 72.930.000
+
+
+1. Klik meu Jurnal --> Voucher
+2. Isi field penjelasan sesuai dengan kwitansi tagihan
+3. Isi field beban bagian 
+4. Pilih golongan sesuai dengan siapa yang menagihkan
+5. Jika ada tagihan progress pekerjaan, maka harus muncul peringatan berapa jumlah uang muka yang sudah dbayarkan. Pada kasus ini, telah ada pembayaran uang muka Rp.72.930.000
+6. Masukan kode perkiraan satu persatu 
+7. PPH 2%, PPN 10%, debet kredit harus balance
+8. Klik checkbox Include PPN
+9. Tekan Tombol SIMPAN
+
+Untuk melihat hasil voucher, masuk ke menu :
+Laporan --> Bukti Jurnal --> Voucher Kas Besar
+Tanda tangan voucher disesuaikan dengan pejabat yang bertugas pada saat itu (mengikuti setup dari simpadu personalia)
+
+Laporan --> Buku Besar
+Pilih nama supplier
+Masukan kode perkiraan sesuai voucher
+Buku besar harus bisa dicetak dalam format excel
+
+Laporan --> Buku Pembantu --> Hutang Supplier
+Pilih periode, Tahunan atau Bulanan
+Masukan nama supplier
+Muncul 2 hutang : hutang pph23 dan hutang usaha
+
+Pada saat ini, posisi Buku Besar utang Usaha untuk supplier PB Dua Sembilan = 155.142.000
+Nilai ini harus sama dengan laporan Rekapitulasi Hutang Usaha
+
+Laporan --> Informasi Tambahan --> Rekapitulasi Hutang
+untuk supplier PB Dua Sembilan tercatat hutang 155.142.000
+
+Total rekap voucher hutang usaha desember 2013 = 501.897.053
+Nilai ini harus sama dengan buku besar utang usaha desember 2013
+
+--------------------------------------------------
+
+II. Contoh Kasus : Voucher yang berhubungan dengan pendapatan karyawan dan berhubungan dengan PPH 21
+
+Jurnal --> Voucher
+Isi filed penjelasan
+Isi field Beban Bagian
+
+Karena voucher ini merupakan pendapatan karyawan PDAM, maka centang checkbox Pendapatan Pegawai/BP (Badan Pengawas)
+Lakukan pencarian nomor bukti lampiran rincian pendapatan yang telah diinputkan sebelumnya oleh bagian personalia/ departemen terkait yang melakukan penagihan
+Nilai pajak dan total pendapatan akan tampil, dan ini digunakan untuk proses pembuatan voucher
+
+Jika kode perkiraan PPH 21 dipilih, maka akan tampil pilihan pengklasifikasian jenis PPH 21, dalam kasus ini pilih Pegawai Tetap
+Tekan tombol SIMPAN
+
+Untuk pengecekan laporan, sama dengan contoh kasus I
+Namun ada beberapa laporan yang terkait dengan perpajakan yang harus dicek :
+
+
+karena voucher tadi disimpan maka data yang sekarang sedang diproses jadi berubah dan bentrok dengan vocuher yang sedang aktif sekarang...
+
+maka bu eka harus menghapus voucher yang barusan dibuat.
+
+...
+
+stop dulu...
+
+
+Untuk melihat laporan PPH 21, masuk ke menu :
+Laporan --> Laporan Pajak --> Laporan PPH21
+Pilih bulan dan tahun, klik tombol Cetak JBK Per Klasifikasi (dalam format excel)
+
+File ini berisi daftar voucher PPH 21 yang telah dibuat pada bulan Desember 2013
+Kolom No Bukti, Rupiah, Pajak adalah nomor, rupiah, pajak rincian pendapatan yang telah diinputkan pada proses pembuatan voucher sebelumnya.
+
+Periode pendapatan (kolom M) masih kosong, dan akan terisi ketika voucher pendapatan ini telah diproses/dihitung dalam proses Penggajian pada akhir bulan. (* setiap kali proses penggajian, seluruh pendapatan karyawan akan dikumpulkan dan dihitung bersama gaji untuk mendapatkan nilai pajak PPH 21 yang sebenarnya).
+
+Nilai Bruto (kolom Q - R) dan nilai PPH 21 (kolom U - X) , akan terklasifikasi sesuai dengan Jenis Klasifikasi yang telah diinputkan pada proses pembuatan voucher.
+Pegawai Tetap = 1
+Tenaga Ahli = 2
+Pegawai Lepas = 3
+Lain-Lain = 4
+Jenis-jenis klasifikasi tersebut dituliskan pada kolom A dan dapat di Filter jika ingin menampilkan klasifikasi tertentu.
+
+
+Laporan selanjutnya yaitu Rekapitulasi Hutang Pajak :
+masuk ke menu Laporan --> Informasi Tambahan --> Rekapitulasi Hutang Pajak
+Pilih kategori Pajak
+Pilih Bulan dan Tahun
+
+Kolom Cek/Giro menerangkan bahwa voucher tersebut telah dibayarkan sebesar berapa, dengan nomor cek dan tanggal seperti yang tertera pada laporan. Yang belum dibayarkan adalah Hutang Pajaknya saja. 
+
+Hutang pajak, akan dikumpulkan selama 1 bulan, dan akan di JBK-kan (dibayarkan) pada bulan berikutnya sebelum tanggal 10.
+
+
+----------------------------------------------
+3:48 PM 02-Dec-13
+
+stop.... :)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,26 @@
+CATATAN DESAIN TOKO ONLINE:
+
+1. Toko Online Pakaian Bayi, namanya Babylonish Garment
+
+2. Orangnya suka dengan desain website berikut:
+	a. mothercare.co.id
+	b. inibayiku.com =
+	c. blibli.com
+	d. bilna.com =
+
+3. Pertemuan terakhir orangnya minta yg mirip bilna.com
+
+4. Nanti yang kamu desain:
+	a. Frontpage (halaman depan dengan slideshow)
+	b. Info Produk (kalo produk di klik)
+	c. Form Pendaftaran
+	d. Tabel (untuk menampilkan barang yg dibeli)
+	e. Buat button yg menarik
+	f. Link icon untuk Facebook dan Twitter
+
+5. Pilihan font utama: Droid Sans atau Open Sans
+
+6. Pilihan font untuk heading: bebas
+
+7. Deadline: hari Rabu, 16 Oktober 2013 agar bisa langsung
+   dipasang ke engine online shop-nya

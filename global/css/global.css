@@ -1,0 +1,146 @@
+
+@font-face{font-family:proxima-nova;src:url('../font/ProximaNova-Light.otf');}
+body, h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6, input, button, select, textarea{	
+	/*font-family: sans-serif;*/
+	font-family:proxima-nova;
+}
+h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6, input, button, select, textarea {font-weight: 500;line-height: 1.1;}
+ul.nav > li > a{font-family:proxima-nova;}
+body {padding-top: 60px;padding-bottom: 40px;background-image: url("../img/stripe2.png")}
+.container{padding-left: 15px;padding-right: 15px;background-color: white;}
+body .utama{padding-top: 15px;padding-bottom: 15px;}
+body div.box-utama{padding: 20px;}
+
+input[type='radio'].ra {
+	margin: 0;
+	margin-right: 3px;
+}
+
+
+i.radio_text{
+	font-style: normal;
+margin-right: 10px;	
+}
+
+
+@media (min-width:1200px){
+	.container{max-width:1170px;		
+	width: 1100px;
+	}}
+/*@media (min-width: 992px){.container {max-width: 970px;}}
+@media (min-width: 768px){.container {max-width: 750px;}}*/
+.navbar-inner .container{
+	background-color: #1b1b1b;
+}
+
+i.img-yes{background-image: url("./icon/yes.png");}
+i.img-no{background-image: url("./icon/no.png");}
+
+span.tebal{
+	font-weight: bold;
+}
+span.tersedia{
+	color: green;
+	
+}
+span.tidak_tersedia{
+	color:red;
+}
+
+.dataTables_filter label{float:right;}   
+table.dataTable th{vertical-align: middle;}
+table.dataTable{margin-bottom: 0;}
+
+div.dataTables_scroll .dataTables_scrollHead, div.dataTables_scroll .dataTables_scrollHeadInner{width:auto;}
+table.display thead th{padding:0;}
+table.display td{padding:3px 5px;}
+
+/*
+div.dataTables_scroll .dataTables_scrollHead{background-color: green; color: white;}
+.is_available{color: green;padding: 4px;background-color: rgba(0, 128, 0, 0.12);font-size: 12px;border: solid 1px rgba(0, 128, 0, 0.23);}
+.is_not_available{color: red;padding: 4px;background-color: rgba(255, 82, 82, 0.12);font-size: 12px;border: solid 1px rgba(255, 0, 0, 0.23);}
+.page-header span.label2{padding: 0px 6px;color: white;-webkit-border-radius: 4px;-moz-border-radius: 4px;border-radius: 4px;}
+     
+.form-horizontal .controls{margin-left: 0px;}
+.alert-success{color: #000000;background-color: rgba(63, 182, 24, 0.25);border-color: rgb(3, 146, 72);}
+.alert-error{color: #000000;background-color: rgba(255, 0, 0, 0.25);border-color: rgb(255, 51, 0);}
+.notif{display: inline-block;width: 14px;height: 14px;margin-top: 1px;margin-right: 0.3em;line-height: 14px;vertical-align: text-top;background-position: 14px 14px;}
+
+
+span.radio_b{padding-right: 9px;vertical-align: middle;}
+*/
+
+.page-header span.labelform{
+	font-size: 24.5px;
+	padding: 7px;
+	font-weight: 500;
+}
+
+.row-fluid div.span-border-kanan{
+	padding-right: 20px;
+	border-right: 5px solid;
+	padding-left: 20px;
+}
+
+.row-fluid div.orange{
+	border-color:  orange;
+}
+
+.row-fluid div.blue{
+	border-color: rgb(36, 157, 180);
+}
+
+/*DEPAN*/
+
+
+img.logokop{
+	width: 130px; height:150px;
+	padding-left: 10px;
+}
+
+.container .row-fluid div.rapatkan{
+	margin-left:0;
+}
+
+li.dropdown ul.boxlogin{
+	width: 222px;
+padding: 18px;	
+}
+
+
+
+/*popover*/
+.labels{
+  display: inline-block;
+padding: 2px 4px;
+font-size: 11.844px;
+font-weight: bold;
+line-height: 14px;
+white-space: nowrap;
+vertical-align: baseline;
+-webkit-border-radius: 3px;
+-moz-border-radius: 3px;
+border-radius: 3px;
+}
+
+/*DASHBOARD*/
+.box_info{
+  border: 1px rgb(187, 182, 182) solid;
+  height: auto;
+width: auto;
+padding: 20px;
+-webkit-border-radius: 4px;
+border-radius: 4px;
+-moz-border-radius: 4px;
+margin-bottom: 10px;
+}
+
+.span12 .box_info{
+	padding-top:5px;
+}
+
+.span12 span.isi{
+	font-weight: bold;
+color: rgb(54, 141, 182);
+}
+

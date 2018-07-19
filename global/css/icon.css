@@ -1,0 +1,95 @@
+/*icon-icon yang ikut proses*/
+/*bakground*/
+body{background: #000 url(../../gambar/backg/hitam.png)repeat top left;}
+/*32x32px*/
+.icon-32-upload	{background-image: url(../../gambar/tombol/32-upload.png);}
+.icon-32-edit{background-image: url(../../gambar/tombol/32-edit.png);}
+.icon-32-export{ background-image: url(../../gambar/tombol/32-download.png);}
+.icon-32-preview{ background-image: url(../../gambar/tombol/32-view.png);}
+.icon-32-move{ background-image: url(../../gambar/tombol/32-move.png);}
+.icon-32-trash{ background-image: url(../../gambar/tombol/32-hapus.png);}
+.icon-32-remove{ background-image: url(../../gambar/tombol/32-hapus-bersama.png);}
+.icon-32-links{background-image: url(../../gambar/tombol/32-share.png);}
+.icon-32-add-folder{background-image: url(../../gambar/tombol/32-tambah-folder.png);}
+.icon-32-banner-categories{background-image: url(../../gambar/tombol/32-edit-folder.png);}
+.icon-32-checkout{background-image: url(../../gambar/tombol/32-check-out.png);}
+.icon-32-checkin{background-image: url(../../gambar/tombol/32-check-in.png);}
+.icon-32-simpan-update-tutup{background-image: url(../../gambar/tombol/32-simpan-update-tutup.png);}
+.icon-32-tidak-jadi{background-image: url(../../gambar/tombol/32-tidak-jadi.png);}
+.icon-32-simpan-update{background-image: url(../../gambar/tombol/32-simpan-update.png);}
+.icon-32-upload-lagi{background-image: url(../../gambar/tombol/32-upload-lagi.png);}
+.icon-32-bantuan{background-image: url(../../gambar/tombol/32-bantuan.png);}
+.icon-32-baca-pesan{background-image: url(../../gambar/tombol/32-baca.png);}
+.icon-32-hapus{background-image: url(../../gambar/tombol/32-hapus.png);}
+.icon-32-hapus-pesan{background-image: url(../../gambar/tombol/32-hapus-pesan.png);}
+.icon-32-balas-pesan{background-image: url(../../gambar/tombol/32-balas-pesan.png);}
+.icon-32-folder-edit{background-image: url(../../gambar/tombol/32-editfolder.png);}
+.icon-32-kirim-pesan{background-image: url(../../gambar/tombol/32-kotak-pesan.png);}
+.bungkus-logo{background-image: url(../../gambar/logo/logojombang.png);}
+
+/*48x48px*/
+.icon-48-article{background-image: url(../../gambar/header/m_dokpri.png);}
+.icon-48-manajemen-folder{background-image: url(../../gambar/header/48-manajemen-folderr.png);}
+.icon-48-tambah-folder{background-image: url(../../gambar/header/48-tambah-folder.png);}
+.icon-48-edit-folder{background-image: url(../../gambar/header/folder-edit.png); }
+.icon-48-edit{background-image: url(../../gambar/header/48-edit.png);}
+.icon-48-tempat-sampah{background-image: url(../../gambar/header/48-tempat-sampah.png);}
+.icon-48-upload{background-image: url(../../gambar/header/48-upload.png);}
+.icon-48-view{background-image: url(../../gambar/header/48-view.png);}
+.icon-48-links{background-image: url(../../gambar/header/48-links.png);}
+.icon-48-move{background-image: url(../../gambar/header/48-move.png);}
+.icon-48-checkout{background-image: url(../../gambar/header/48-check-out.png);}
+.icon-48-checkin{background-image: url(../../gambar/header/48-check-in.png);}
+.icon-48-manajemen-dokumen{background-image: url(../../gambar/header/m_dokpri.png);}
+
+.icon-48-manajemen-dok-publik{background-image: url(../../gambar/header/48-manajemen-dok-publik.png);}
+.icon-48-manajemen-folderr{background-image: url(../../gambar/header/48-manajemen-folderr.png);}
+.icon-48-setting-profil{background-image: url(../../gambar/header/48profil.png);}
+.icon-48-kotak-pesan{background-image: url(../../gambar/header/48-pesan-baca.png);}
+.icon-48-baca-pesan{background-image: url(../../gambar/header/48-baca-pesan.png);}
+.icon-48-setting-profil{background-image: url(../../gambar/header/48profil.png);}
+
+/*dashboard*/
+.dash-icon-48-manajemen-dokumen{background-image: url(../../gambar/header/m_dokpri.png);}
+.dash-icon-48-manajemen-dok-publik{background-image: url(../../gambar/header/48-manajemen-dok-publik.png);}
+.dash-icon-48-manajemen-folderr{background-image: url(../../gambar/header/48-manajemen-folderr.png);}
+.dash-icon-48-setting-profil{background-image: url(../../gambar/header/48profil.png);}
+.dash-icon-48-kotak-pesan{background-image: url(../../gambar/header/48-pesan-baca.png);}
+
+/*16x16px*/
+.icon-16-new-privatemessage{background: url(../../gambar/tombol/16-pesan.png) 3px 4px no-repeat;}
+.icon-16-links{background: url(../../gambar/tombol/16-share.png) 3px 4px no-repeat;}
+/*tipe file*/
+a.tipe_jpeg{background-image: url(../../gambar/tipefile/16-jpgs.png);}
+a.tipe_chm{background-image: url(../../gambar/tipefile/16-chm.png);}
+a.tipe_doc{background-image: url(../../gambar/tipefile/16-doc.png);}
+a.tipe_docx{background-image: url(../../gambar/tipefile/16-docx.png);}
+a.tipe_exe{background-image: url(../../gambar/tipefile/16-exe.png);}
+a.tipe_gif{background-image: url(../../gambar/tipefile/16-gif.png);}
+a.tipe_pdf{background-image: url(../../gambar/tipefile/16-pdf.png);}
+a.tipe_png{background-image: url(../../gambar/tipefile/16-pngs.png);}
+a.tipe_ppt{background-image: url(../../gambar/tipefile/16-ppt.png);}
+a.tipe_pptx{background-image: url(../../gambar/tipefile/16-pptx.png);}
+a.tipe_psd{background-image: url(../../gambar/tipefile/16-psd.png);}
+a.tipe_rar{background-image: url(../../gambar/tipefile/16-rar.png);}
+a.tipe_txt{background-image: url(../../gambar/tipefile/16-txt.png);}
+a.tipe_xls{background-image: url(../../gambar/tipefile/16-xls.png);}
+a.tipe_xlsx{background-image: url(../../gambar/tipefile/16-xlsx.png);}
+a.tipe_zip{background-image: url(../../gambar/tipefile/16-zip.png);}
+a.tipe_none{background-image: url(../../gambar/tipefile/16-gaktau.png);}
+/**/
+a.view{background-image: url(../../gambar/tombol/16-oke.png);}
+a.download{background-image: url(../../gambar/tombol/16-down.png);}
+a.udahbaca{background-image: url(../../gambar/tombol/16-baca-pesan.png);}
+a.belumbaca{background-image: url(../../gambar/tombol/16-pesan.png);}
+a.dokpri{background-image: url(../../gambar/tombol/16-dokpri.png);}
+a.dokpub{background-image: url(../../gambar/tombol/16-dokpub.png);}
+/**/
+a.lock{	background-image: url(../../gambar/konfirmasi/16-checkout.png);}
+/**/
+thead th{background-image: url(../../gambar/sort/bg.gif);}
+thead tr .headerSortUp {background-image: url(../../gambar/sort/desc.gif);}
+thead tr .headerSortDown {background-image: url(../../gambar/sort/asc.gif);}
+tbody tr .klik{background: url(../../gambar/sort/birumuda.jpg) repeat-x bottom;}
+label.error{background: url(../../gambar/val/nos.png) no-repeat;}
+label.valid{background: url(../../gambar/val/accept.png) no-repeat;}

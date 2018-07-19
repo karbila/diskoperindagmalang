@@ -1,0 +1,27 @@
+
+@font-face{font-family:proxima-nova;src:url('../font/ProximaNova-Light.otf');}
+body, h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6, input, button, select, textarea{	
+	/*font-family: sans-serif;*/
+	font-family:proxima-nova;
+}
+h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6, input, button, select, textarea {
+	font-weight: 500;
+	line-height: 1.1;
+}
+ul.nav > li > a{
+	font-family:proxima-nova;
+}
+
+
+body {padding-top: 100px;padding-bottom: 40px;background-image: url("../img/stripe2.png")}
+.container{
+	padding-left: 15px;
+	padding-right: 15px;
+	background-color: white;
+}
+body .box-utama{
+	padding-top: 15px;
+	padding-bottom: 15px;
+	min-height: 100px;
+	width: 800px;
+}
